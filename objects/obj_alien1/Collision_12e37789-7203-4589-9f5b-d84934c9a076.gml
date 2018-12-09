@@ -1,2 +1,1 @@
 game_restart();
-// test
