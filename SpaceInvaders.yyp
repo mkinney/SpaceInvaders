@@ -680,7 +680,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/rm_main\/rm_main.yy",
+                "resourcePath": "rooms\/rm_play1\/rm_play1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -739,6 +739,25 @@
                 ],
                 "resourcePath": "views\/d4fe2428-516f-4ade-9b70-169f18214c12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d614d30b-3958-4b56-bdc8-526018929488",
+            "Value": {
+                "id": "4d4b6bdf-871d-4c08-a442-8d95d81b1cfb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_play2\/rm_play2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
